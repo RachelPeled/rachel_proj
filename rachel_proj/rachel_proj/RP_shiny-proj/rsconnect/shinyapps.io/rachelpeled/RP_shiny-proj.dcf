@@ -1,0 +1,13 @@
+name: RP_shiny-proj
+title:
+username:
+account: rachelpeled
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 386755
+bundleId: 1498049
+url: https://rachelpeled.shinyapps.io/RP_shiny-proj/
+when: 1532472616.7181
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rapp.history|.RData|project.Rmd|www/.DS_Store
